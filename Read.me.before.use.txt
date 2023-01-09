@@ -1,0 +1,9 @@
+Here are the some deatail before using this " Bus Reservation System "
+
+login details: 
+
+username - user
+password - user
+
+
+Thank You
