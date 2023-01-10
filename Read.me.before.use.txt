@@ -1,4 +1,4 @@
-Here are the some deatail before using this " Bus Reservation System "
+Here are the some details before using this " Bus Reservation System "
 
 login details: 
 
